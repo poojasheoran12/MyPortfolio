@@ -388,7 +388,7 @@ export default function Portfolio() {
   const contactInfo = {
     linkedin: "https://www.linkedin.com/in/lakshay-yadav-62209b257",
     github: "https://github.com/Lakshay7206",
-    resume: "",
+    resume: "/lakshay_resume.pdf",
     email: "ylakshay234@gmail.com",
   };
 
@@ -415,7 +415,7 @@ export default function Portfolio() {
       description:
       " A real-time hostel community app where students can view or share events, announcements, news  posts",
       tech: ["Android", "FireBase"],
-      link: "/project/LocalLoop",
+      link: "#",
     },
   ];
 
@@ -434,18 +434,18 @@ export default function Portfolio() {
     "Android Development": [
       "Kotlin",
       "Jetpack Compose",
-      "Android Studio",
-      "MVVM Architecture",
-      "Clean Architecture",
+   "   KotlinMultiPlatform",
       "Coroutines",
       "StateFlow",
       "Hilt (DI)",
       "Room Database",
       "Retrofit",
       "Material 3",
+      "Android Studio",
+      "MVVM Architecture",
+      "Clean Architecture",
     ],
     Backend: [
-      "Java",
       "Spring Boot",
       "JPA / Hibernate",
       "REST APIs",
@@ -453,7 +453,7 @@ export default function Portfolio() {
       "MySQL",
       "MongoDB",
     ],
-    Tools: ["Git", "Postman", "Firebase", "Gradle", "Maven", "JSON / XML"],
+    Tools: ["Git", "Postman", "Firebase", "Gradle",],
   };
 
   return (

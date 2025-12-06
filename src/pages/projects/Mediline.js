@@ -11,7 +11,7 @@ export default function Mediline() {
     { title: "Queue Tracking", img: "/screenshots/dept.jpeg" },
     { title: "Queue Tracking", img: "/screenshots/queue.jpeg" },
     { title: "Queue Tracking", img: "/screenshots/razorpay.jpeg" },
-    { title: "Queue Tracking", img: "/screenshots/viewTicket.jpeg" },
+    { title: "Queue Tracking", img: "/screenshots/viewticket.jpeg" },
   ];
 
   // ADMIN PANEL SCREENS
@@ -70,7 +70,7 @@ export default function Mediline() {
         {/* BUTTONS */}
         <div className="flex justify-center gap-6 mt-10">
           <a
-            href="https://github.com/Lakshay7206/MediLine/tree/main/app/src/main/java/com/example/mediline"
+            href="/app-debug.apk"
             target="_blank"
             className="px-6 py-3 bg-white text-black rounded-lg font-semibold"
           >
