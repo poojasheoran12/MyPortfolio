@@ -407,7 +407,7 @@ export default function Portfolio() {
       description:
         "A simple and efficient way for students to report problems within the campus.",
       tech: ["KotlinMultiPlatform", "Springboot"],
-      link: "#",
+      link: "/project/CampusCare",
     },
     {
       id: 3,
