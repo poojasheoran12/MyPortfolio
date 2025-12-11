@@ -36,7 +36,7 @@ export default function Mediline() {
   // VIDEOS
   const demoVideos = [
     "/videos/userLakshay.mp4",
-    "/videos/demo3.mp4",
+    "/videos/lakshayAdmin.mp4",
     "/videos/superAdmin.mp4",
     
   ];
