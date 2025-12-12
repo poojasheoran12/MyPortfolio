@@ -70,7 +70,7 @@ export default function Mediline() {
         {/* BUTTONS */}
         <div className="flex justify-center gap-6 mt-10">
           <a
-            href="/mediLine.apk"
+            href="/medilLine.apk"
             target="_blank"
             className="px-6 py-3 bg-white text-black rounded-lg font-semibold"
           >
