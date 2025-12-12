@@ -71,7 +71,7 @@ export default function Mediline() {
         <div className="flex justify-center gap-6 mt-10">
           <a
             href="/app-debug.apk"
-            target="_blank"
+            target="/mediLine.apk"
             className="px-6 py-3 bg-white text-black rounded-lg font-semibold"
           >
             📱 Download APK
