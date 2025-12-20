@@ -4,6 +4,7 @@ import Portfolio from "./pages/Portfolio";
 import Mediline from "./pages/projects/Mediline.js";
 import CampusCare from "./pages/projects/CampusCare";
 import LocalLoop from "./pages/projects/LocalLoop.js";
+import NewsApp from "./pages/projects/Newsify.js";
 
 export default function App() {
   return (
@@ -15,6 +16,7 @@ export default function App() {
       <Route path="/project/mediline" element={<Mediline />} />
       <Route path="/project/campuscare" element={<CampusCare />} />
       <Route path="/project/localloop" element={<LocalLoop />} />
+      <Route path="/project/newsify" element={<NewsApp />} />
     </Routes>
   );
 }
