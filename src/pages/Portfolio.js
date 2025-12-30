@@ -7,8 +7,8 @@ import ThreeDev from "./ThreeDev";
 
 export default function Portfolio() {
   const personal = {
-    name: "Lakshay Yadav",
-    role: "Full Stack Android Developer",
+    name: "Pooja Sheoran",
+    role: "Full Stack App Developer",
     tagline: "Building scalable Android apps with clean architecture and robust backend systems.",
   };
 
@@ -16,14 +16,14 @@ export default function Portfolio() {
     main: "I build reliable, maintainable products that scale.",
     subMain:
       "I’m a developer focused on building production-ready mobile apps. I care about clean architecture, testing, and developer experience.",
-    quickStat: "built 3+ projects",
+    quickStat: "built 4+ projects",
   };
 
   const contactInfo = {
-    linkedin: "https://www.linkedin.com/in/lakshay-yadav-62209b257",
-    github: "https://github.com/Lakshay7206",
+    linkedin: "https://www.linkedin.com/in/pooja-sheoran-2b23b9292/",
+    github: "https://github.com/PoojaSheoran12",
     resume: "/lakshay_resume.pdf",
-    email: "ylakshay234@gmail.com",
+    email: "sheoranpooja726@gmail.com",
   };
 
   const projects = [

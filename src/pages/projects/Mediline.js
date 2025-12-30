@@ -30,13 +30,13 @@ export default function Mediline() {
     { title: "Email Invitation Screen", img: "/screenshots/superAdmin.jpeg" },
     { title: "Admin Invitation Form", img: "/screenshots/gmail.jpeg" },
     { title: "Admin Invitation Form", img: "/screenshots/invitation.jpeg" },
-        { title: "Admin Invitation Form", img: "/screenshots/success.jpeg" },
+    { title: "Admin Invitation Form", img: "/screenshots/success.jpeg" },
   ];
 
   // VIDEOS
   const demoVideos = [
-    "/videos/userLakshay.mp4",
-    "/videos/lakshayAdmin.mp4",
+    "/videos/poojaUser.mp4",
+    "/videos/poojaAdmin.mp4",
     "/videos/superAdmin.mp4",
     
   ];
