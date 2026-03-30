@@ -16,7 +16,7 @@ export default function Portfolio() {
     main: "I build reliable, maintainable products that scale.",
     subMain:
       "I’m a developer focused on building production-ready mobile apps. I care about clean architecture, testing, and developer experience.",
-    quickStat: "built 4+ projects",
+    quickStat: "built 5+ projects",
   };
 
   const contactInfo = {
@@ -55,6 +55,37 @@ description:
       tech: ["Android", "Room","Retrofit"],
       link: "/project/Newsify",
     },
+
+  {
+    id: 5,
+    title: "KMP Music Player — Advanced Streaming",
+    description:
+      "A professional-grade Music Player built with Kotlin Multiplatform, featuring Ktor paging, SQLDelight caching, and background audio service lifecycle management.",
+    tech: [
+      "Kotlin Multiplatform",
+      "Ktor (Paging)",
+      "SQLDelight",
+      "Koin",
+      "AudioService",
+      "Coroutines"
+    ],
+    link: "/project/kmp-music",
+  },
+  {
+    id: 6,
+    title: "Drishti — AI Navigation Assistant",
+    description:
+      "A Kotlin Multiplatform (KMP) app for the visually impaired using TFLite/YOLO with an intelligent voice prioritization engine.",
+    tech: [
+      "AI / TFLite",
+      "YOLO V8",
+      "KMP",
+      "GPS Navigation",
+      "Text-to-Speech",
+      "Coroutines"
+    ],
+    link: "/project/drishti",
+  }
   ];
 
   const experience = [  

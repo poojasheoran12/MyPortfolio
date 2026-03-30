@@ -5,6 +5,8 @@ import Mediline from "./pages/projects/Mediline.js";
 import CampusCare from "./pages/projects/CampusCare";
 import LocalLoop from "./pages/projects/LocalLoop.js";
 import NewsApp from "./pages/projects/Newsify.js";
+import KMPMusicPlayer from "./pages/projects/KMPMusic.js";
+import Drishti from "./pages/projects/Drishti.js";
 
 export default function App() {
   return (
@@ -17,6 +19,8 @@ export default function App() {
       <Route path="/project/campuscare" element={<CampusCare />} />
       <Route path="/project/localloop" element={<LocalLoop />} />
       <Route path="/project/newsify" element={<NewsApp />} />
+      <Route path="/project/kmp-music" element={<KMPMusicPlayer/>} />
+      <Route path="/project/drishti" element={<Drishti/>} />
     </Routes>
   );
 }
